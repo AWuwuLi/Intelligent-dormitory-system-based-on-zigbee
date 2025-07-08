@@ -1,0 +1,84 @@
+[DebugChecksum]
+Checksum=-1027220885
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[CallStack]
+ShowArgs=0
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Breakpoints]
+Count=0
+[ChipconEmu]
+Stop timers on halt=1
+Leave target running=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\Users\a1804\Desktop\project\OneNet\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A1=_ "C:\Users\a1804\Desktop\project\OneNet\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A2=_ "E:\school\threethree\wlwtxjs\实验3\实验3.3：多终端数据Zigbee组网WiFi发送到ONENET\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A3=_ "E:\school\threethree\wlwtxjs\实验3\实验3.3：多终端数据Zigbee组网WiFi发送到ONENET\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A4=_ "E:\zigbee\软件资料\软件资料\开发例程\5.zigbee协议栈应用与组网\7.温湿度传感器DHT11\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A5=_ "E:\zigbee\软件资料\软件资料\开发例程\5.zigbee协议栈应用与组网\7.温湿度传感器DHT11\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A6=_ "G:\软件开发\7.温湿度传感器DHT11\ZStack-CC2530-2.3.0-1.4.0\Components\zmac\f8w\zmac.c" ""
+A7=_ "G:\软件开发\7.温湿度传感器DHT11\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A8=_ "G:\软件开发\ZigBeeTCP连接onenet\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A9=_ "G:\软件开发\ZigBeeTCP连接onenet\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+A10=_ "G:\软件开发\ZigBeeTCP连接onenet发送---完成0304协调器需要修改死机问题\ZStack-CC2530-2.3.0-1.4.0\Components\osal\common\OSAL_Timers.c" ""
+A11=_ "G:\软件开发\ZigBeeTCP连接onenet发送---完成0304协调器需要修改死机问题\ZStack-CC2530-2.3.0-1.4.0\Projects\zstack\ZMain\TI2530DB\ZMain.c" ""
+Count=12
+SuppressDialog=0
